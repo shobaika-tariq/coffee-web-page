@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(132, 11, 11);
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: rgb(249, 245, 245);
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 30px;
+    justify-content: right;
+    font-size: 20px;
+    margin-right: 120px;
+    margin-top: 50px;
+}
+ .log{
+     margin-right: 500px;
+    margin-top: 10px;
+}
+
+.pic{
+    width: 80px;
+}
+.text{
+   font-size: 40px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+.head1{
+    font-family: serif;
+     color: #ec9428;
+     font-style: italic;
+     font-size: 50px;
+     font-weight: 300;
+}
+.head2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 30px;
+    line-height: 30px;
+}
+p{
+    color: white;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+.dic{
+      margin-top: 50px;
+    margin-left: 80px;
+}
+.order{
+    background-color: #ec9428;
+    color: #3d141d;
+    border: none;
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+    margin-right: 30px;
+}
+.contact{
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 30px;
+    font-weight: bold;
+     background-color: transparent;
+    color:white;
+    border: 2px solid white;
+}
+.image{
+    display: flex;
+    justify-content: right;
+    margin-top: -500px;
+
+}
+.cupPic{
+    width: 600px;
+    margin-right: 200px;
+}
+ 
+
+   
